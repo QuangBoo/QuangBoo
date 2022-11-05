@@ -1,7 +1,15 @@
-<!-- Trungquandev -->
+<!-- Minh Quang -->
 <a href="#" target="_blank">
   <img src="svg/minhquang.svg" width="1200" alt="Minh Quang" />
 </a>
+
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Quangboo" alt="Quangboo" />
+
+
+- ✍ I'm a student of: [University of Information Technology](https://www.uit.edu.vn) (UIT).
+
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
